@@ -188,7 +188,3 @@ Contributions, issues, and feature requests are welcome. Feel free to open an is
 ## 👤 Author
 
 **Pranav** — [@pranavoffi](https://github.com/pranavoffi)
-
-## 📄 License
-
-This project is currently unlicensed. Add a `LICENSE` file (e.g. MIT) if you'd like to specify usage terms.
