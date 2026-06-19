@@ -1,0 +1,31 @@
+# Core framework
+streamlit==1.35.0
+
+# LangChain core packages (v0.2+ recommended)
+langchain==0.2.1
+langchain-community==0.2.1
+langchain-core==0.2.1
+
+# Ollama integration
+ollama==0.1.7
+
+# Vector DB support
+chromadb
+
+
+# Embedding model
+sentence-transformers==2.2.2
+huggingface-hub==0.19.4          # ✅ Compatible with sentence-transformers
+
+# Transformers + Torch (with CUDA)
+transformers==4.36.2             # works well with sentence-transformers 2.2.2
+
+
+# Utilities
+pandas==2.2.2
+tqdm==4.67.1
+numpy==1.26.4
+scikit-learn==1.6.1
+
+# Optional but useful
+python-dotenv==1.0.1

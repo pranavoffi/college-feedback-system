@@ -1,0 +1,26 @@
+ID,Department,Teacher,FeedbackText,Sentiment
+1,Computer Science,Prof. Bose,I found the lectures to be very informative and engaging. The real-world examples helped me understand complex algorithms more easily. The instructor's enthusiasm made the course enjoyable.,Positive
+2,Mathematics,Dr. Iyer,The problem sets were challenging but rewarding. They pushed me to think critically and reinforced my understanding of theorems. I appreciated the detailed solutions provided.,Positive
+3,Physics,Prof. Das,"The lab sessions were well-organized and provided hands-on experience. However, the theoretical lectures could use more illustrative diagrams to clarify concepts.",Neutral
+4,Chemistry,Prof. Singh,"The experiments were fascinating, especially the titration demonstrations. I do feel the safety protocols could be emphasized more during lab sessions.",Neutral
+5,Biology,Dr. Kumar,The course materials were up-to-date and covered important topics. I think the quizzes were too frequent and sometimes overlapped in content.,Neutral
+6,Economics,Prof. Sharma,"The case studies used in lectures were highly relevant and sparked insightful discussions. The pacing was a bit fast at times, making it hard to keep up with readings.",Neutral
+7,English,Dr. Mehta,The reading list was excellent and diverse. The group discussions helped deepen my analysis of literature. It would be great to have additional writing workshops.,Positive
+8,History,Prof. Rao,"The instructor's narration of historical events made the subject come alive. However, some of the sources were outdated and could be replaced with more recent research.",Neutral
+9,Mechanical Engineering,Dr. Patel,"The design projects were hands-on and encouraged creativity. The grading criteria for the final project was unclear, leading to confusion.",Neutral
+10,Electrical Engineering,Prof. Das,"The circuit simulations were very helpful in reinforcing concepts. The lecture slides, though, were sometimes difficult to read due to small fonts.",Neutral
+11,Civil Engineering,Prof. Sharma,The site visits gave practical context to the principles taught in class. I wish the assignments had clearer instructions for deliverables.,Neutral
+12,Psychology,Dr. Rao,"The experiments on human behavior were ethically conducted and insightful. The statistical analysis portion, however, felt rushed.",Neutral
+13,Sociology,Prof. Iyer,The guest lectures provided diverse perspectives and enriched the course. The textbook was heavy on theory and light on real-world applications.,Positive
+14,Philosophy,Dr. Singh,The debates on classical philosophers were engaging and thought-provoking. The grading scale for essays could be more transparent.,Positive
+15,Computer Science,Prof. Bose,"The coding assignments helped solidify my understanding of data structures. Occasionally, the test cases were not well-documented, making debugging difficult.",Neutral
+16,Mathematics,Dr. Mehta,"The proofs discussed in class were thorough and clear. The homework load was manageable, but more examples during lectures would help.",Positive
+17,Physics,Prof. Das,"The theoretical concepts were explained clearly with practical examples. However, the lab equipment was outdated in some cases.",Neutral
+18,Chemistry,Prof. Singh,The explanation of organic reactions was very clear and engaging. The constant pop quizzes felt unnecessary and stressful.,Negative
+19,Biology,Dr. Kumar,"The field trip to the research facility was invaluable. The lecture pace was sometimes too slow, making it harder to stay focused.",Neutral
+20,Economics,Prof. Sharma,"The economic models were thoroughly explained and applied well to current events. The class size was too large, resulting in limited one-on-one interaction.",Neutral
+21,English,Dr. Iyer,The writing assignments improved my critical thinking and grammar skills. I felt the grading returned too late to be helpful for subsequent essays.,Positive
+22,History,Prof. Rao,The multimedia resources made historical events more engaging. The course could benefit from more primary source documents for deeper analysis.,Positive
+23,Mechanical Engineering,Prof. Patel,The CAD workshops were very practical and useful. Some of the software tutorials were confusing and not detailed enough.,Neutral
+24,Electrical Engineering,Prof. Das,"The instrumentation labs were well-structured and informative. The lecture recordings were sometimes missing key sections, making review difficult.",Neutral
+25,Civil Engineering,Prof. Sharma,The structural analysis problems were challenging but rewarding. The slides were too text-heavy and could use more visual aids.,Neutral
